@@ -1,0 +1,19 @@
+{
+  "name": "Małe kroki · Nauka krok po kroku",
+  "short_name": "Małe kroki",
+  "lang": "pl",
+  "description": "Matematyka, język polski, angielski i przyroda dla klasy 4. Spokojna nauka i testy.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf5ff",
+  "theme_color": "#eaf5ff",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
